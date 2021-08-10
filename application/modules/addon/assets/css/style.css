@@ -1,0 +1,156 @@
+.addonsbox .thumbnail{
+    min-height: 350px;
+}
+.box-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.themebox{
+    padding-left: 7px;
+    padding-right: 7px;
+    margin-bottom: 10px;
+}
+.themebox img {
+    width: 100%;
+    height: 260px;
+    object-fit: cover;
+}
+.addon_img{
+    height: 250px;
+    overflow: hidden;
+}
+.mod_thumb_img {
+    width: 100%;
+    min-height: 250px;
+    object-fit: cover;
+}
+.price {
+    font-size: 20px;
+    color: #ff6100;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+.caption h3 {
+    margin-top: 10px;
+    font-size: 20px;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: flex;
+    justify-content: space-between;
+    height: 25px;
+}
+
+.caption .caption_desc {
+    display: block !important;
+    display: -webkit-box !important;
+    -webkit-line-clamp: 2;
+    -moz-line-clamp: 2;
+    -ms-line-clamp: 2;
+    -o-line-clamp: 2;
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+    -moz-box-orient: vertical;
+    -ms-box-orient: vertical;
+    -o-box-orient: vertical;
+    box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: normal;
+    height: 40px;
+}
+
+.themediv{
+    min-height: 300px;
+}
+.themeupload{
+    margin-top: 20px;
+}
+.overwrite{
+    padding:10px 15px;
+}
+
+/*Others Page design*/
+.caption_part{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 8px 5px;   
+}
+.caption_btn{
+    opacity: 0;
+    transition-duration: 0.4s;
+}
+.caption_btn .btn-info,
+.caption_btn .btn-outline-info{
+    border-color: #007cba;
+}
+.caption_btn .btn-info{
+    background: #007cba;
+}
+.caption_btn .btn-outline-info{
+    color: #007cba;
+}
+.caption_btn .btn-outline-info:hover{
+    color: #fff;
+}
+.caption_btn .btn-outline-info:hover{
+    background: #007cba;
+}
+.card_item:hover .caption_btn{
+    opacity: 1;
+}
+
+.card_item .img_part{
+    position: relative;
+}
+
+.btn-dtls{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #37a000;
+    color: #fff;
+    font-size: 15px;
+    text-shadow: 0 1px 0 rgba(0,0,0,.6);
+    -webkit-font-smoothing: antialiased;
+    font-weight: 600;
+    padding: 15px 40px;
+    text-align: center;
+    border-radius: 3px;
+    transition: opacity .1s ease-in-out;
+    opacity: 0;
+    transition-duration: 0.4s;
+}
+.btn-dtls:focus,
+.btn-dtls:hover{
+    background: #317d09;
+    color: #fff;
+}
+.card_item .img_part:before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: block;
+    background: rgba(0, 0, 0, 0.51);
+    opacity: 0;
+    transition-duration: 0.4s;
+}
+.card_item:hover .img_part:before,
+.card_item:focus .img_part:before,
+.card_item:hover .btn-dtls,
+.card_item:focus .btn-dtls{
+    opacity: 1;
+}
+
+.caption_btn.activated{
+    opacity: 1;
+}
+

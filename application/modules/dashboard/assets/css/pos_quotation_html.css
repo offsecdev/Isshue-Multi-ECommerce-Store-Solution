@@ -1,0 +1,87 @@
+.print_div{
+	margin:0;font-family:Arial,Helvetica,sans-serif;border-bottom:1;
+}
+.p_b_20{
+	padding:20px 0 20px 0;
+}
+.bradius_5{
+	border-radius: 5px;
+}
+.bb_1{
+	border-bottom:solid 1px #e5e5e5;
+}
+.p_b_5{
+	padding:0px 5px 0px 5px;
+}
+.pb_5{
+	padding:0px 5px 0px 0px;
+}
+.br_1{
+	border-right:solid 1px #e5e5e5;
+}
+.cominfo{
+	color:#404041;font-size:12px;padding:0px 5px 0px 5px;
+}
+.mt_10{
+	margin-top:10px;
+}
+.cus_name{
+	color:#404041;font-size:13px;padding:15px 5px 0px 5px;
+}
+.colpad{
+	color:#404041;font-size:13px;padding:5px 5px 0px 20px;
+}
+.colpad2{
+	color:#404041;line-height:16px;padding:25px 20px 0px 20px;
+}
+.section_css{
+	position: relative;clear: both;margin: 5px 0;height: 1px;border-top: 1px solid #cbcbcb;margin-bottom: 25px;margin-top: 10px;text-align: center;
+}
+
+.invoice_title{
+	margin-top: -12px;
+	background-color: #FFF;
+	clear: both;
+	width: 180px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-left: 15px;
+	padding-right: 15px; 
+	font-family: arial,sans-serif;
+}
+.colpad3{
+	color:#404041;font-size:12px;line-height:16px;padding:10px 16px 20px 18px;
+}
+.colpad4{
+	color:#404041;font-size:12px;line-height:16px;padding:5px 10px 3px 5px;border-bottom:solid 1px #e5e5e5;
+}
+.colpad5{
+	color:#404041;font-size:12px;line-height:16px;padding:5px 5px 3px 5px;border-bottom:dashed 1px #e5e5e5;
+}
+.colpad6{
+	color:#404041;font-size:12px;line-height:16px;padding:15px 0px 3px 0px;
+}
+.colpad7{
+	color:#404041;font-size:12px;line-height:16px;padding:15px 5px 3px 5px;;border-bottom:solid 1px #999999;
+}
+.colpad8{
+	color:#404041;font-size:12px;line-height:16px;padding:5px 0px 3px 0px;
+}
+.colpad9{
+	color:#404041;font-size:12px;line-height:16px;padding:5px 0px 3px 0px;border-bottom:solid 1px #999999;
+}
+.colpad10{
+	color:#404041;font-size:13px;line-height:16px;padding:5px 0px 3px 0px;
+}
+.colpad11{
+	color:#339933;font-size:13px;line-height:16px;padding:5px 5px 3px 5px;
+}
+.tbl_css{
+	border-radius:5px;border:solid 1px #e5e5e5;
+}
+.tbl_css2{
+	color:#404041;font-size:12px;line-height:16px;padding:10px 16px 20px 18px;
+}
+.sl_rowcss{
+	color:#404041;font-size:12px;line-height:16px;padding:5px 10px 3px 5px;border-bottom:solid 1px #e5e5e5;
+}

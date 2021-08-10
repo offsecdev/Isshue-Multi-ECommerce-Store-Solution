@@ -1,0 +1,7 @@
+{
+	"name" : "dompdf/codeigniter",
+  "require": {
+    "phenx/php-font-lib" : "0.*",
+    "dompdf/dompdf":"*"
+  }
+}

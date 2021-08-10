@@ -1,0 +1,18 @@
+#bank_info_hide{
+    display: none;
+}
+#payment_from_1{
+    display: none;
+}
+#payment_from_2{
+    display: none;
+}
+#order_tbl, #bill_tbl{
+    display: none;
+}
+#store_hide{
+    display: none;
+}
+.ad_table img{
+    width: 100px !important;
+}

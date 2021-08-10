@@ -1,0 +1,234 @@
+.cominfo_div{
+    display: inline-block;width: 68%;
+}
+.inv_logo_div{
+	display: inline-block;width: 64%;
+}
+.inv_logo{
+	margin-bottom:20px;height: 55px;
+}
+.inv_logo2{
+	margin-bottom:5px;height: 60px;margin-left: 0px;
+}
+.ctext{
+	width: 10px;margin: 0px;padding: 0px;
+}
+.mt_10{
+	margin-top: 10px;
+}
+.mt_20{
+	margin-top:20px;
+}
+.mb_15{
+	margin-bottom:15px;
+}
+.mb_20{
+	margin-bottom:20px
+}
+.cus_div{
+	display: inline-block;margin-left: 5px; width: 30%;
+}
+.quotation_div{
+	display: inline-block;margin-left: 5px;
+}
+.m_0{
+	margin: 0px;
+}
+.p_0{
+	padding: 0px;
+}
+.ft_left{
+    float:left;
+}
+.ft_right{
+    float:right;
+}
+.ft_center{
+	float: center;
+}
+.width_110{
+    width: 110px;
+}
+.width_30p{
+    width: 30%;
+}
+.width_50p{
+    width: 50%;
+}
+.width_70p{
+    width: 70%;
+}
+.height_200{
+	height: 200px;
+}
+.bt_bb_0{
+	border-top: 0; border-bottom: 0;
+}
+.auth_by{
+	float:left;width:90%;text-align:center;border-top:1px solid #000;margin-top: 100px;font-weight: bold;
+}
+.bb_2{
+	border-bottom:2px #333 solid;
+}
+.comname{
+	font-size: 17pt; font-weight:bold;
+}
+.sign {
+border-top: 1px solid #ddd;
+margin: 20px;
+text-align: center;
+}
+.sign_office{
+	border-top: 1px solid #ddd;margin: 20px;text-align: center;
+}
+.company_td{
+	border-bottom:1px #333 dashed;
+}
+.bcollapse{
+	border-collapse: collapse;
+}
+.td_text{
+	border: 1px solid black ;padding: 5px;
+}
+.barcode_div{
+	font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;text-align: center; position: relative;
+}
+.barcode_cominfo{
+	text-transform: uppercase;line-height: 10px;font-weight: 600;font-size: 12px;margin-bottom: 3px;
+}
+.pmodelname{
+	font-weight: 600;font-size: 8px;position: absolute;top: 0;right: 0;
+}
+.pbarimag{
+	display: block;margin-left: auto;margin-right: auto;height: 42px;width: 140px;
+}
+.pname_details{
+	font-size: 11px;letter-spacing: 0.5px;font-weight: 600;text-transform: uppercase;line-height: 8px;
+}
+.price_text{
+	font-weight: 500;line-height: 10px;margin-top: 5px;
+}
+.excl_vat{
+	font-weight: 600;font-size: 9px;
+}
+.pbarimag2{
+	display: block;margin-left: auto;margin-right: auto;height:150px;
+}
+.panel_body_div{
+	margin:0;font-family:Arial,Helvetica,sans-serif;border-bottom:1
+}
+.p_tb_20{
+	padding:20px 0 20px 0;
+}
+.bradius{
+	border-radius: 5px;
+}
+.bb_1{
+	border-bottom:solid 1px #e5e5e5;
+}
+.p_rl_5{
+	padding:0px 5px 0px 5px;
+}
+.p_b_5{
+	padding:0px 5px 0px 0px;
+}
+.b_right{
+	border-right:solid 1px #e5e5e5;
+}
+.tbl_td_css{
+	color:#404041;font-size:12px;padding:0px 5px 0px 5px;
+}
+.tbl_td_css2{
+	color:#404041;font-size:13px;padding:15px 5px 0px 5px;
+}
+.tbl_td_css3{
+	color:#404041;font-size:13px;padding:5px 5px 0px 20px;
+}
+.tbl_td_css4{
+	color:#404041;line-height:16px;padding:25px 20px 0px 20px;
+}
+.tbl_td_css5{
+	color:#404041;font-size:12px;line-height:16px;padding:10px 16px 20px 18px;
+}
+.tbl_td_css6{
+	border-radius:5px;border:solid 1px #e5e5e5;
+}
+.tbl_td_css7{
+	color:#404041;font-size:12px;line-height:16px;padding:5px 10px 3px 5px;border-bottom:solid 1px #e5e5e5;
+}
+.tbl_td_css8{
+	color:#404041;font-size:12px;line-height:16px;padding:5px 5px 3px 5px;border-bottom:dashed 1px #e5e5e5;
+}
+.tbl_td_css9{
+	color:#404041;font-size:12px;line-height:16px;padding:10px 16px 20px 18px;
+}
+.tbl_td_css10{
+	color:#404041;font-size:12px;line-height:16px;padding:15px 0px 3px 0px;
+}
+.tbl_td_css11{
+	color:#404041;font-size:12px;line-height:16px;padding:15px 5px 3px 5px;
+}
+.tbl_td_css12{
+	color:#404041;font-size:12px;line-height:16px;padding:5px 0px 3px 0px;
+}
+.tbl_td_css13{
+	color:#404041;font-size:12px;line-height:16px;padding:5px 5px 3px 5px;
+}
+.tbl_td_css14{
+	color:#404041;font-size:13px;line-height:16px;padding:5px 0px 3px 0px;
+}
+.tbl_td_css15{
+	color:#339933;font-size:13px;line-height:16px;padding:5px 5px 3px 5px;
+}
+.tbl_td_css16{
+	color:#404041;font-size:12px;line-height:16px;padding:5px 0px 3px 0px;border-bottom:solid 1px #999999;
+}
+
+.bb_1_99{
+	border-bottom:solid 1px #999999;
+}
+
+.section_div{
+	position: relative;clear: both;margin: 5px 0;height: 1px;border-top: 1px solid #cbcbcb;margin-bottom: 25px;margin-top: 10px;text-align: center;
+}
+.invoice_text{
+	margin-top: -12px;background-color: #FFF;
+	clear: both;
+	width: 180px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-left: 15px;
+	padding-right: 15px; 
+	font-family: arial,sans-serif;
+}
+.store_name{
+	text-align:center;font-size: 1.5em; text-transform: capitalize; font-weight: bold; margin-right: 1em;
+}
+.store_div{
+	display: flex; font-size: 1.2em; justify-content: center;
+}
+.mr_p8e{
+	margin-right: 0.8em;
+}
+.details_div{
+	display: inline-block;width: 65%;
+}
+.details_div2{
+	display: inline-block;width: 35%;float: left;
+}
+.details_div3{
+	display: inline-block;width: 70%;
+}
+.details_div4{
+	display: inline-block;width: 66%;
+}
+.details_tbl{
+	display: inline-block;width: 30%;
+}
+.display_inblock{
+	display: inline-block;
+}
+
+.b_1{
+	border: 1px solid  #000;
+}

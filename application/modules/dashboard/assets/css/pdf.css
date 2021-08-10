@@ -1,0 +1,112 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 10px;
+    font-family:'Alegreya Sans',sans-serif;
+}
+
+table {
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 1.4;
+    color: #000;
+    width: 100%;
+    text-align: center;
+}
+
+table tbody tr td {
+    vertical-align: middle;
+    padding: 1.3px;
+}
+.cizgili td {
+    border: 1px solid  #000;
+}
+
+.cominfo_div{
+    display: inline-block;width: 68%;
+}
+
+.mt_10{
+    margin-top: 10px;
+}
+.cus_div{
+    display: inline-block;margin-left: 5px; width: 30%
+}
+.m_0{
+    margin: 0px;
+}
+.mb_15{
+    margin-bottom: 15px;
+}
+.p_0{
+    padding: 0px;
+}
+.m_p_0{
+    margin: 0;padding: 0;
+}
+.ft_left{
+    float:left;
+}
+.ft_right{
+    float:right;
+}
+.width_30p{
+    width: 30%;
+}
+.width_70p{
+    width: 70%;
+}
+.bt_bb_0{
+    border-top: 0; border-bottom: 0;
+}
+.auth_by{
+    float:left;width:90%;text-align:center;border-top:1px solid #000;margin-top: 100px;font-weight: bold;
+}
+.prepared_by{
+    float:left;width:90%;text-align:center;border-top:1px solid #000;
+}
+.h_200{
+    height: 200px;
+}
+.inv_logo_div{
+    display: inline-block;width: 64%;
+}
+.details_div{
+    display: inline-block;width: 65%;
+}
+.details_div2{
+    display: inline-block;width: 35%;
+}
+.inv_logo{
+    margin-bottom:5px;height: 60px;margin-left: 0
+}
+.inv_logo2{
+    margin-bottom:5px;height: 60px;margin-left: 0px;
+}
+.order_div{
+    display: inline-block;margin-left: 5px;
+}
+.b1{
+    border: 1px solid  #000;
+}
+.memo{
+    font-weight:bold;font-size:15px;text-align:right !important;
+}
+.text-left{
+    text-align: left;
+}
+.text-right{
+    text-align: right;
+}
+.tbl_pdf{
+   margin-top:25px;border-collapse:collapse; 
+}
+.tbl_pdf2{
+    margin-top:75px;border-collapse:collapse;
+}
+.ctext{
+    width: 10px;margin: 0px;padding: 0px;
+}
+.tbl_text{
+    display: inline-block;width: 35%;float: left;
+}

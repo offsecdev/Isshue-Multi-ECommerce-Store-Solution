@@ -1,0 +1,266 @@
+/*Header Volor Persian Blue------------------*/
+.ml-5 {
+    margin-left: 0;
+    margin-right: 5px;
+}
+.mr-5 {
+    margin-right: 0;
+    margin-left: 5px;
+}
+.social-link li a i{
+    margin-right: auto;
+}
+.main-header .middleBar .btn-warning {
+    border-radius: 30px 0 0 30px;
+}
+.main-header.persian-blue .middleBar .form-control,
+.input-group .form-control:first-child{
+    border-radius: 0 30px 30px 0;
+}
+.page-scroll,
+.header-nav li ul, .topBar ul.topBarNav li ul,
+.nice-select:after,
+.cart::before,
+.nav-pills > li > a::before{
+    right: auto;
+}
+.cart::before,
+.nav-pills > li > a::before{
+    left: 8px;
+}
+.page-scroll,
+.header-nav li ul, .topBar ul.topBarNav li ul,
+.navbar-nav > li > .dropdown-menu.mega-dropdown-menu {
+    left: 0;
+}
+.like-dislike div i,
+.cat-header .icon,
+.subcategories > li > a > i,
+.mega-dropdown-menu > li > ul > li > a i {
+    margin: 0 0 0 5px;
+}
+.quantity,
+.product-size label,
+.product-color label,
+.vertical-menu > .menu-item > a > span, 
+.vertical-menu > .menu-item > a > i,
+.vertical-menu > li.list-group-item > span i,
+.header-nav li a .extra-icon{
+    margin-right: 0;
+}
+.product-size label,
+.product-color label,
+.vertical-menu > li.list-group-item > span i {
+    margin-left: 5px;
+}
+.payment-block .payment-item label::after,
+.payment-block .payment-item label::before,
+.checkbox label::after,
+.checkmark,
+.middleBar .btn-warning span{
+    left: auto;
+}
+.product-image,
+.product-details,
+.price-title, 
+.cart-product-price,
+.product-quantity,
+.vertical-menu > .menu-item > a > span, .vertical-menu > .menu-item > a > i,
+.product-removal,
+.header-title ul li .cat-icon,
+.total-price-title, .total-price {
+    float: right;
+}
+.checkbox label::before,
+.checkbox label::after,
+.checkmark,
+.payment-block .payment-item label::before{
+    right: 0;
+}
+.quantity{
+    margin-left: 15px;
+}
+.vertical-menu > .menu-item > a > span, 
+.vertical-menu > .menu-item > a > i {
+    margin-left: 8px;
+}
+.header-nav {
+    float: left !important;
+}
+.icon-tips {
+    left: initial;
+    right: -6px;
+}
+.subfooter .cradit{
+    text-align: left;
+}
+.short-description ul{
+    padding-left: 0;
+    padding-right: 15px;
+}
+.summary-header li:last-child{
+    padding-right: 15px;
+    padding-left: 0;
+}
+.stock label {
+    padding-right: 0;
+    padding-left: 5px;
+}
+.summary-header li {
+    padding-left: 15px !important;
+    padding-right: 0;
+}
+.title-widget span::after{
+    left: -39px;
+    transform: rotateY(180deg);
+    right: auto;
+}
+.title-widget span::before {
+    display: none;
+}
+.header-nav li a .nav-label {
+    text-align: right;
+}
+.header-nav li a .extra-icon {
+    margin-left: 5px;
+}
+.newsletter .newsletter-title {
+    margin: 10px 0 0 0;
+}
+.newsletter .form-control {
+    padding: 0 25px;
+}
+.navbar-nav > li > a .fa.pull-right {
+    margin: 3px 5px 0 0;
+}
+.content-row .pr-15 {
+    padding-left: 15px;
+    padding-right: 0;
+}
+.mega-dropdown-menu > li > ul > li > a i.fa-angle-right::before {
+    content: "\f104";
+}
+.promotion-product-content {
+    padding: 0 20px 0 0;
+}
+.vertical-menu.make-absolute{
+    padding: 0 15px;
+}
+@media(max-width: 767px){
+    .has-search .form-control {
+        padding-left: 34px;
+        padding-right: 12px;
+    }
+}
+.box-bottom .btn-add-cart a img {
+    padding: 0 0 0 6px;
+}
+.box-bottom .compare-wishlist a img {
+    padding: 0 0 0 8px;
+}
+.vertical-menu .menu-item-has-children a[data-toggle="dropdown"]::after {
+    content: "\f104";
+    float: left;
+}
+.vertical-menu .menu-item-has-children > .dropdown-menu ,
+.vertical-menu > .menu-item > a .hover-fix {
+    left: initial;
+    right: 100%;
+}
+.header-title ul li {
+    margin: 0 0 0 20px;
+}
+.header-title ul li .cat-icon {
+    margin: 0 0 0 10px;
+}
+.title-name span i {
+    margin: 0 5px 0 0;
+}
+.title-name span i.fa-angle-right::before {
+    content: "\f104";
+}
+.nav-pills > li + li {
+    margin-right: 0;
+}
+.checkbox label::before{
+    left: initial;
+}
+.checkbox_area{
+    padding-right: 22px;
+    padding-left: 0;
+}
+select {
+    background-position: left 0rem center;
+}
+.product-images [class*="col-"]:last-child {
+    padding: 0 20px 0 0;
+}
+.product-video-btn a::before {
+    margin: 0 0 0 10px;
+}
+.nav-pills > li > a::before{
+    transform: rotate(180deg);
+}
+.social-link li a i{
+    margin-left: 8px;
+}
+.payment-block .payment-item label {
+    padding: 0 30px 0 0;
+}
+.middleBar .btn-warning{
+    padding: 12px 40px 12px 20px;
+}
+.nice-select{
+    padding-left: 30px;
+    padding-right: 12px;
+}
+.checkbox label::after{
+    padding-right: 2px;
+}
+.topBar ul.topBarNav li{
+    margin-right: 0;
+}
+.input-group-btn:last-child>.btn {
+    border-radius: 25px 0 0 25px;
+}
+.nice-select:after{
+    left: 14px;
+}
+.middleBar .btn-warning span{
+    right: 14px;
+}
+.payment-block .payment-item label::after {
+    right: 5px;
+}
+.subcategories > li > a .fa-angle-right::before {
+    content: "\f104";
+}
+.newsletter .newsletter-marketing-text {
+    margin: 0 25px 0 0;
+}
+.newsletter .newsletter-title::before{
+    display: none;
+}
+.newsletter .newsletter-title::after{
+    content: "\e84b";
+    font-family: Linearicons-Free;
+    margin-left: 15px;
+    font-size: 1.619em;
+    vertical-align: middle;
+}
+.navbar-nav > li > .dropdown-menu.dropdown-menu-bg {
+    background-image: none;
+}
+.review-block-rate {
+    margin: 0 0 15px 7px;
+}
+.rating-container .caption {
+    margin-left: 0;
+    margin-right: 5px;
+}
+.pagination > li:first-child > a, 
+.pagination > li:first-child > span, 
+.pagination > li:last-child > a, 
+.pagination > li:last-child > span{
+    transform: rotate(180deg);
+}
